@@ -1,11 +1,12 @@
 import React from 'react';
-import 'App.css'
-function App() {
-  return (
-    <div className="App">
+import './App.css'
 
-    </div>
-  );
+function App() {
+    return (
+        <div className="App">
+            asdf
+        </div>
+    );
 }
 
 export default App;
